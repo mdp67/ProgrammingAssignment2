@@ -2,7 +2,7 @@
 ## functions do
 
 ## function takes a matrix and returns a list that acts as an object containing
-## getter, setter fucnctions 
+## getter, setter functions
 
 makeCacheMatrix <- function(x = matrix()) {
     inver <- NULL
